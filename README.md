@@ -16,7 +16,10 @@ Per avviare utilizzare Server.js
 Modulo mysql separato per consentire una facile implementazione per altri tipi di database
 (previto nei prossimi sviluppi PostgreSQL ed Oracle)
 
+
 All'interno sono presenti due cartelle per test:
+
 1 - db_test --> contiene il database utilizzato in fase di sviluppo
+
 2 - leaflet_test --> semplice client per la visualizzazione dei dati presenti nel database
 
