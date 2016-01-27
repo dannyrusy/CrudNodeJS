@@ -1,0 +1,6 @@
+{
+ "host": "localhost",
+ "database" : "crud_test",
+ "username" : "root",
+ "password" : "welcome"
+}

@@ -1,0 +1,12 @@
+{
+  "name" : "crud",
+  "version" : "0.0.1",
+  "scripts" : {
+    "start" : "node Server.js"
+  },
+  "dependencies" : {
+  	"mysql": "latest",
+    "express" : "latest", 
+    "fs" : "latest"
+  }
+}
